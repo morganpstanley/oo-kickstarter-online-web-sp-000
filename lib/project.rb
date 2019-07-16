@@ -11,8 +11,8 @@ class Project
     @backers << backer
     if backer.
 
-      
-      
+
+
     endbacker.and_project(self)
   end
 
